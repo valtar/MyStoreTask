@@ -7,4 +7,4 @@ entrance examination
 
 mvn package
 
-java -cp target/my-app-1.0-SNAPSHOT.jar Controller
+java -cp target/my-app-1.0-SNAPSHOT.jar Controller file_name
